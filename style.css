@@ -1,0 +1,150 @@
+
+
+#form{
+    display: flex;
+    word-spacing: 5px;
+    text-indent: 40%;
+   
+}
+
+#object{
+    float: right;
+    
+}
+
+body{
+    margin: auto;
+    padding: 100px;
+    background-color:pink;
+    border: solid 55px palevioletred;
+    
+}
+
+p1{
+    color: palevioletred;
+
+}
+
+.icons1{
+    display: inline-block; 
+    width: 80%;
+    height: 50%;
+
+}
+
+.icons3{
+    width: 80%;
+    height: 50%;
+    display: inline-block;
+}
+
+.bucket1{
+    width: 80%;
+    height: 40%;
+
+}
+
+.bucket3{
+    width: 10%;
+    height: 10%;
+    float: inline-end;
+    display: flex;
+    flex: right;
+
+}
+
+.image1{
+    width: 15%;
+    height: 10%;
+
+}
+
+#form1{
+    background-color: pink;
+
+}
+
+.small1{
+    width: 10%;
+    height: 40%;
+
+}
+
+.small3{
+    width: 30%;
+    height: 20%;
+
+}
+
+.PHOTO1{
+    width: 10%;
+    height: 25%;
+    
+}
+
+.end1{
+    height: 5%;
+    width: 2%;
+    
+}
+
+#final{
+    display: flex;
+    word-spacing: 10px;
+}
+
+button{
+    background-color: blue;
+    width: 10%;
+    
+}
+#icons2{
+    display: flex;
+   
+}
+
+.button3{
+    background-color: blue;
+    width: 20%;
+}
+
+#All{
+    display: flex;
+}
+
+#b2{
+    width: 70%;
+    background-color: blue;
+
+}
+
+#icons{
+    display: flex;
+}
+
+#small{
+    display:flex;
+}
+
+p4{
+    text-indent: 10px;
+}
+
+#All-bottom{
+    display: flex;
+    border-collapse: collapse;
+}
+
+.bottom{
+    display: inline-block;
+}
+
+#small2{
+    display: flex;
+
+}
+
+.size-head{
+    border-collapse: collapse;
+}
+
